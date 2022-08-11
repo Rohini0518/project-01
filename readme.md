@@ -17,4 +17,4 @@ This  Street Style Landing Page project,  took me almost 8 hrs to complete,this 
 ![project 1](./screenshot.png)
 
 ## Here is live link
-[Live link]()
+[Live link](https://rohini-project1.netlify.app/)
